@@ -1,5 +1,4 @@
 # Excel-Automation-Toolkit
-A collection of Excel automation tools to solve real-world business problems
 
 A collection of Excel automation tools built using VBA to solve real-world business problems and save manual effort.
 
