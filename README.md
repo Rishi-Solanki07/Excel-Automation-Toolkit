@@ -37,6 +37,3 @@ Clear call-to-action:
 
 If you want access to these tools, customization, or task-based Excel automation work,
 feel free to connect with me on [LinkedIn.](https://www.linkedin.com/in/solanki-rishi-3000331b7/)
-
-If you want access to these tools, customization, or task-based Excel automation work,
-feel free to connect with me on LinkedIn.
