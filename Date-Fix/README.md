@@ -55,7 +55,7 @@ A shortcut is available to view all options instantly.
 ---
 
 ## ⏱ Time Saved
-Manual work reduced from hours to seconds.
+No Extra Manual work.
 
 ---
 
