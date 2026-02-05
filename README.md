@@ -22,16 +22,13 @@ Excel power users
 
 Anyone working with large Excel files
 
-🚫 Source Code Notice
-
-Very important (protects you):
+🚫 Source Code Notice:
 
 The VBA source code and add-ins are intentionally not shared.
 This repository is for demonstration and documentation purposes only.
 
 💼 Access & Custom Work
 
-Clear call-to-action:
 
 If you want access to these tools, customization, or task-based Excel automation work,
 feel free to connect with me on [LinkedIn.](https://www.linkedin.com/in/solanki-rishi-3000331b7/)
