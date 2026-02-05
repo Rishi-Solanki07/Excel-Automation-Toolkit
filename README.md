@@ -2,9 +2,7 @@
 
 A collection of Excel automation tools built using VBA to solve real-world business problems and save manual effort.
 
-🧩 Tools Included
-
-List all 4 tools with 1-line summary each:
+🧩 Tools
 
 Splitter – Automatically split large Excel data into multiple files based on any column
 
