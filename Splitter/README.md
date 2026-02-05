@@ -60,5 +60,5 @@ This repository is for demonstration and documentation purposes only.
 
 ## 📬 Access & Custom Work
 For access, customization, or task-based Excel automation work,  
-please connect with me on LinkedIn.
+please connect with me on [LinkedIn.](https://www.linkedin.com/in/solanki-rishi-3000331b7/)
 
