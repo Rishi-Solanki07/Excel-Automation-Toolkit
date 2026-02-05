@@ -43,6 +43,8 @@ You simply select the date cell and choose the required format.
 
 A shortcut is available to view all options instantly.
 
+**ALT + M + N**
+
 ---
 
 ## 💼 Use Cases
